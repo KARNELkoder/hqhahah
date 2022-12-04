@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "19.03.2003"; // Дата рождения
-var fullname = "Ткаченко Мария Ивановна" // ФИО
+var birthdate = "13.06.2004"; // Дата рождения
+var fullname = "Мовчан Нікіта Сергійович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
