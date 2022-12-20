@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
 var birthdate = "11.01.1990"; // Дата рождения
-var fullname = "Роман Георгій Антонович" // ФИО
+var fullname = "Гомон Георгій Антонович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
