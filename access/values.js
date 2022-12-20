@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "13.06.2004"; // Дата рождения
-var fullname = "Мовчан Нікіта Сергійович" // ФИО
+var birthdate = "11.01.1990"; // Дата рождения
+var fullname = "Роман Георгій Антонович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
